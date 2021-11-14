@@ -1,14 +1,17 @@
 <template>
-  <Navbar msg="Welcome to Your Vue.js App"/>
+  <Navbar/>
+  <LoginSection />
 </template>
 
 <script>
 import Navbar from './components/Navbar.vue'
+import LoginSection from './components/LoginSection.vue'
 
 export default {
   name: 'App',
   components: {
-    Navbar
+    Navbar,
+    LoginSection
   }
 }
 </script>

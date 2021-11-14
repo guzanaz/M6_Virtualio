@@ -1,13 +1,40 @@
 <template>
-  <div class="hello">
-    <nav class="navbar navbar-light bg-light">
-      <div class="container">
-        <a class="navbar-brand" href="#">
-        <img src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24">
+  <nav class="navbar sticky-top navbar-expand-md navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <img
+          src="https://wiki.ead.pucv.cl/images/b/b2/Virtualio_logo.svg"
+          alt=""
+          width="162"
+          height="43.31"
+        />
       </a>
+      <button
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        class="navbar-toggler"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="">Qui Som?</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="">Contacte</a>
+          </li>
+        </ul>
       </div>
-    </nav>
-  </div>
+    </div>
+  </nav>
 </template>
 
 <script>
