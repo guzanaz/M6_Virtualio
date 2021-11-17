@@ -23,10 +23,10 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" href="">Home</a>
+            <a class="nav-link" href="">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Qui Som?</a>
+            <a class="nav-link" href="">Sobre Virtualio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="">Contacte</a>

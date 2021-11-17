@@ -1,17 +1,21 @@
 <template>
   <Navbar/>
-  <LoginSection />
+  <LoginSection/>
+  <SobreVirtualio/>
 </template>
 
 <script>
 import Navbar from './components/Navbar.vue'
 import LoginSection from './components/LoginSection.vue'
+import SobreVirtualio from './components/SobreVirtualio.vue'
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    LoginSection
+    LoginSection,
+    SobreVirtualio
+
   }
 }
 </script>
