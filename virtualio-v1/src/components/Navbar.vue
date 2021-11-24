@@ -23,13 +23,13 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="">Home</a>
+            <a class="nav-link" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Sobre Virtualio</a>
+            <a class="nav-link" href="#SobreVirtualio">Sobre Virtualio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Contacte</a>
+            <a class="nav-link" href="#contacte">Contacte</a>
           </li>
         </ul>
       </div>
