@@ -23,7 +23,7 @@
                         >Virtualio</a
                       >
                       <p class="opacity-75 text-white">
-                        Benvingut/benvinguda! Aquí podràs crear i manipular
+                        Benvingut/benvinguda! <br>Aquí podràs crear i manipular
                         màquines virtuals per acompanyar-te en el teu procés
                         d'aprenentatge, tant si ets alumne/a de SMX o ASIX.
                       </p>

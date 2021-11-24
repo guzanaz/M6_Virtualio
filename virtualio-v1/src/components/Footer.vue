@@ -58,7 +58,7 @@
           <h5>Email</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
-              <a class="link-secondary" href="#">
+              <a class="link-secondary" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@virtualio.org" target="_blank">
                 info@virtualio.org
               </a>
             </li>
@@ -81,7 +81,7 @@
           <h5>Adreça</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
-              <a class="link-secondary text-decoration-none" href="#"
+              <a class="link-secondary text-decoration-none" href="#googlemap"
                 >Carrer Madrid, 35, 49, 43870 Amposta.
               </a>
             </li>
