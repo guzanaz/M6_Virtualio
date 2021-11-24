@@ -5,7 +5,7 @@
         <div class="pt-5 col-lg-9 col-xxl-5 position-relative text-center">
           <h1 class="fs-3 fs-sm-4 mb-3">Contacta’ns!</h1>
           <p>
-            Si tens algun dubte o problema, si us plau escriu-nos! 
+            Si tens cap dubte o problema, si us plau escriu-nos! 
             <br>T’ajudarem tan aviat com sigue possible.
           </p>
         </div>
