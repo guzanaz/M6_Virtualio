@@ -28,17 +28,25 @@
           </ul>
           <ul class="list-unstyled">
             <li class="d-inline">
-              <a class="link-secondary text-decoration-none me-2" href="#">Home</a>
+              <a class="link-secondary text-decoration-none me-2" href="#"
+                >Home</a
+              >
             </li>
             <li class="d-inline">
-              <a class="link-secondary text-decoration-none me-2" href="#SobreVirtualio">Sobre Virtualio</a>
+              <a
+                class="link-secondary text-decoration-none me-2"
+                href="#SobreVirtualio"
+                >Sobre Virtualio</a
+              >
             </li>
             <li class="d-inline">
-              <a class="link-secondary text-decoration-none" href="#contacte">Contacte</a>
+              <a class="link-secondary text-decoration-none" href="#contacte"
+                >Contacte</a
+              >
             </li>
           </ul>
         </div>
-        <div class="col-12 col-lg-2 offset-lg-1 mb-3">
+        <div class="col-12 col-lg-3 offset-lg-3 mb-3">
           <h5>Telèfon</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
@@ -47,8 +55,6 @@
               >
             </li>
           </ul>
-        </div>
-        <div class="col-12 col-lg-2 mb-3">
           <h5>Email</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
@@ -57,9 +63,7 @@
               </a>
             </li>
           </ul>
-        </div>
-        <div class="col-12 col-lg-2 mb-3">
-          <h5>Xerxes Socials</h5>
+          <h5>Xarxes Socials</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
               <a class="link-secondary text-decoration-none" href="#">
@@ -73,7 +77,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-12 col-lg-2 mb-3">
+        <div class="col-12 col-lg-3 mb-3">
           <h5>Adreça</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
