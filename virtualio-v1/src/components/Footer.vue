@@ -28,13 +28,13 @@
           </ul>
           <ul class="list-unstyled">
             <li class="d-inline">
-              <a class="link-secondary text-decoration-none me-2" href="#"
+              <a class="link-secondary text-decoration-none me-3" href="#"
                 >Home</a
               >
             </li>
             <li class="d-inline">
               <a
-                class="link-secondary text-decoration-none me-2"
+                class="link-secondary text-decoration-none me-3"
                 href="#SobreVirtualio"
                 >Sobre Virtualio</a
               >
@@ -58,7 +58,7 @@
           <h5>Email</h5>
           <ul class="list-unstyled text-small">
             <li class="mb-1">
-              <a class="link-secondary text-decoration-none" href="#">
+              <a class="link-secondary" href="#">
                 info@virtualio.org
               </a>
             </li>
