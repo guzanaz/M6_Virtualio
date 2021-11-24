@@ -1,9 +1,9 @@
 <template>
-  <section id="contacte">
+  <section id="contacte" class="pt-5">
     <div class="container">
       <div class="row min-vh-0 d-flex justify-content-center g-0">
         <div class="pt-5 col-lg-9 col-xxl-5 position-relative text-center">
-          <h1 class="fs-3 fs-sm-4 mb-3">Contacta’ns</h1>
+          <h1 class="fs-3 fs-sm-4 mb-3">Contacta’ns!</h1>
           <p>
             Si tens algun dubte o problema, si us plau escriu-nos! 
             <br>T’ajudarem tan aviat com sigue possible.
