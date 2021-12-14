@@ -1,18 +1,22 @@
 import { createWebHistory, createRouter } from "vue-router";
-import Home from "@/views/Home.vue";
-import About from "@/views/About.vue";
+import Dashboard from "../views/Dashboard.vue";
+import LandingPage from "../views/LandingPage.vue";
 
 const routes = [
+
   {
-    path: "/",
+    path: "/Dashboard",
+    name: "Dashboard",
+    component: Dashboard,
+  },
+  {
+    path: "/Home",
     name: "Home",
-    component: Home,
-  },
-  {
-    path: "/about",
-    name: "About",
-    component: About,
-  },
+    component: LandingPage,
+  }
+
+
+
 ];
 
 const router = createRouter({
