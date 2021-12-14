@@ -1,5 +1,7 @@
 <template>
-  <section id="CreateVM"></section>
+  <section id="CreateVM">
+      
+  </section>
 </template>
 
 <script>
