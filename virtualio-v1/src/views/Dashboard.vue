@@ -1,17 +1,24 @@
 <template>
   <div class="hello">
     <h1>Aquí se crean máquinas virtuales</h1>
-  <CreateVM/>  
+  <UserNavbar/>
+  <DashboardMenu/>  
+  <UserVMsTable/>
   </div>
 </template>
 
 <script>
-import CreateVM from "../components/CreateVM";
+import UserNavbar from "../layout/UserNavbar.vue";
+import DashboardMenu from '../components/DashboardMenu.vue';
+import UserVMsTable from "../components/UserVMsTable.vue"
 
 export default {
   name: "Dashboard",
   components:{
-    CreateVM
+    UserNavbar,
+    DashboardMenu,
+    UserVMsTable,
+
   },  
 };
 </script>
