@@ -3,7 +3,7 @@
     <h4>Aquí va una tabla con las vm de un usuario</h4>
     <table>
       <caption>
-        Contact Information
+        Máquinas virtuales
       </caption>
       <tr>
         <td>0.</td>
