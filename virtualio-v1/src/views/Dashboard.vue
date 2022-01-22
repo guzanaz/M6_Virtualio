@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <h1>Aquí se crean máquinas virtuales</h1>
   <UserNavbar/>
   <DashboardMenu/>  
   <UserVMsTable/>

@@ -1,6 +1,4 @@
 <template>
-  <section>
-    <h2>Navbar visible cuando el usuario está logeado</h2>
     <nav class="navbar sticky-top navbar-expand-md navbar-light bg-light">
       <div class="container">
         <a class="navbar-brand" href="#">
@@ -34,7 +32,6 @@
         </div>
       </div>
     </nav>
-  </section>
 </template>
 
 <script>
@@ -45,17 +42,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-section{
-    padding:10vh;
-    background-color: rgb(64, 146, 64);
-}
 
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
 </style>

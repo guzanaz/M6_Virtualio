@@ -1,6 +1,5 @@
 <template>
   <section id="CreateVM">
-    <button>Crear MV</button>
       <Modal/> <!-- debe estar config para que se  muestre sólo sí se crea una mv-->
   </section>
 </template>
@@ -16,8 +15,6 @@ name:"CreateVM",
 </script>
 
 <style scoped>
-section{
-  background-color: rgb(245, 216, 216);
-}
+
 </style>>
 
