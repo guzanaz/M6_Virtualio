@@ -10,6 +10,10 @@
   "dependencies": {
     "@fawmi/vue-google-maps": "^0.9.4",
     "@popperjs/core": "^2.10.2",
+<<<<<<< HEAD
+=======
+    "bootstrap": "^5.1.3",
+>>>>>>> parent of 9dadc28 (Bootstrap icon libary sucessfully integrated)
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.12",

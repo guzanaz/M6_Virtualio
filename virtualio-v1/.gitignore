@@ -21,3 +21,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+virtualio-v1/package-lock.json
+*.json
+virtualio-v1/package.json

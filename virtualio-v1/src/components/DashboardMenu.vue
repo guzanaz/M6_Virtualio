@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 <div id="App">
     <BootstrapSidebar
       :initial-show="initialShow"
@@ -28,14 +29,32 @@
       </template>
     </BootstrapSidebar>
   </div>
+=======
+  <nav>
+    <h3>este es un sidebar para el usuario</h3>
+    <CreateVM/>
+  </nav>
+  
+>>>>>>> parent of 9dadc28 (Bootstrap icon libary sucessfully integrated)
 </template>
 
 <script>
+import CreateVM from "../components/CreateVM";
 export default {
-  name: "DashboardMenu",
-  components: {},
+    name:"DashboardMenu",
+    components:{
+        CreateVM
+    },
+
 };
 </script>
 
 <style scooped>
+<<<<<<< HEAD
+=======
+nav{
+    padding: 20px;
+    background-color: rgb(248, 177, 177);
+}
+>>>>>>> parent of 9dadc28 (Bootstrap icon libary sucessfully integrated)
 </style>
